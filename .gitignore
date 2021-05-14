@@ -1,3 +1,5 @@
 *.pyc
 /blog-backend/db.sqlite3
 /myblog-font/node_modules
+*/.idea
+*/__pycache__
